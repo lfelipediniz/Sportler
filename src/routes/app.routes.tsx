@@ -5,7 +5,7 @@ import { fonts } from "../styles/fonts";
 import { colors } from "../styles/colors";
 const { Navigator, Screen } = createBottomTabNavigator();
 
-import { Home } from "../pages/home";
+import { Home } from "../pages/nome";
 import { Likeit } from "../pages/likeit";
 import { Profile } from "../pages/profile";
 import { History } from "../pages/history";
