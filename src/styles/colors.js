@@ -3,6 +3,7 @@ export default {
   blue: "#0073C6",
   black: "#000",
   softBlack: "#1A1A1A",
+  bg: "#F2F2F2",
   bgText: "#D9D9D9",
   textBg: "#9E9E9E",
   yellow: "#E3B40C",
