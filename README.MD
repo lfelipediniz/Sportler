@@ -11,8 +11,6 @@ Follow these instructions to get a copy of the Sportler project up and running o
 Before you begin, ensure you have the following tools installed on your system:
 
 - [Node.js](https://nodejs.org/en/download/)
-- [Yarn](https://yarnpkg.com/getting-started/install)
-- [Expo](https://expo.dev/)
 
 ### Installation
 
@@ -32,11 +30,13 @@ cd Sportler
 
 **Install dependencies**
 
-With Yarn installed, run the following command in the project directory:
+Run the following command in the project directory:
 
 ```sh
-yarn install
+npm install
 ```
+
+
 
 This command installs all necessary dependencies required by the project.
 
@@ -44,15 +44,11 @@ This command installs all necessary dependencies required by the project.
 
 To run Sportler on your local machine, follow these instructions:
 
-**Start the Expo development server**
+**Start development server**
 
 ```sh
-expo start
+npm run dev
 ```
-
-**Launch the application**
-
-Expo will provide a QR code which you can scan with the Expo app on your mobile device, or choose to run in an emulator/simulator to view the application.
 
 ## Features
 
